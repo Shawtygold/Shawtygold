@@ -10,11 +10,24 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shawtygold&layout=compact&theme=tokyonight)
 
 <div>
+      
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C" width="30"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="30"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="30"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="30"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="30"/>&nbsp;
+  
 </div>
+
+---
+
+<div align="left"> 
+ 	<a href="https://www.twitch.tv/sadisnamenya" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <a href="https://discord.gg/YCcMhku" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:satontworldwide@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://t.me/satont" target="_blank"><img src="https://img.shields.io/badge/-Telegram-%23332?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  
+</div>
+
 
 <!--<div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
@@ -27,21 +40,8 @@
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/vscode/vscode-original.svg" />
 </div>-->
 
----
 
-<div align="left"> 
- 	<a href="https://www.twitch.tv/sadisnamenya" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/YCcMhku" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:satontworldwide@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://t.me/satont" target="_blank"><img src="https://img.shields.io/badge/-Telegram-%23332?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 
-  
-    
-  ![](https://komarev.com/ghpvc/?username=shawtygold)
-    
-  
-  
-</div>
 
 
 
