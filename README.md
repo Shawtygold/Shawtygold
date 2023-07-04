@@ -9,23 +9,21 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shawtygold&layout=compact&theme=tokyonight)
 
-<div>
-      
+<div>      
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C" width="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="30"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="30"/>&nbsp;
-  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="30"/>&nbsp;  
 </div>
 
 ---
 
-<div align="left"> 
- 	<a href="https://www.twitch.tv/sadisnamenya" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/YCcMhku" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:satontworldwide@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://t.me/satont" target="_blank"><img src="https://img.shields.io/badge/-Telegram-%23332?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  
+<div align="left">   
+      
+  <a href="https://www.twitch.tv/shawtygoldq" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <a href="https://discord.gg/ygTgqafV4b" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:shawtygoldz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://t.me/+nAFnNgTUJq85OTM6" target="_blank"><img src="https://img.shields.io/badge/-Telegram-%23332?style=for-the-badge&logo=telegram&logoColor=white" /></a>  
 </div>
 
 
