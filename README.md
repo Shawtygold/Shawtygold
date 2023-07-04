@@ -1,7 +1,5 @@
-<!--### Hi there 👋
-<h1 align="center">Приветствую, I'm <a href="https://daniilshat.ru/" target="_blank">Shawtygold</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>-->
-<!--<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>-->
+<!--### Hi there 👋-->
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B5ADEB&width=435&lines=Hi+there%2C+my+name+is+Misha." alt="Typing SVG" /></a>
 
 <!--&ring_color=B5ADEB&text_color=B5ADEB&title_color=B5ADEB&icon_color=B5ADEB-->
@@ -12,8 +10,8 @@
 <div>      
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C" width="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="30"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="30"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="30"/>&nbsp;  
+  <!--<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="30"/>&nbsp; >--> 
 </div>
 
 ---
