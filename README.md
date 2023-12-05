@@ -6,6 +6,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shawtygold&layout=compact&theme=tokyonight)](https://github.com/Shawtygold)
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shawtygold&layout=compact&theme=transparent&hide_border=true&text_color=FFFFFF&title_color=B5ABF9&icon_color=B5ADEB)-->
 <div>      
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C" width="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="visualstudio" alt="visualstudio" width="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="30"/>&nbsp;
