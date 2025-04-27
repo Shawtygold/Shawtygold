@@ -18,9 +18,10 @@
 <br>
 <br>
 <br>
+<br>
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=shawtygold&show_icons=true&theme=transparent&hide_border=true&ring_color=9688F4&text_color=FFFFFF&title_color=9688F4&rank_icon=github&icon_color=9688F4&hide=contribs,issues&custom_title=Stats#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=shawtygold&show_icons=true&theme=transparent&hide_border=true&ring_color=000000&text_color=2B2B2B&title_color=000000&rank_icon=github&icon_color=000000&hide=contribs,issues&custom_title=Stats#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shawtygold&show_icons=true&theme=tokyonight)](https://github.com/Shawtygold)-->
 
